@@ -1,0 +1,11 @@
+.vscode/
+
+.DS_Store
+defs.mk
+
+testbin/
+
+.svn/
+svn-ignore.sh
+.svnignore
+*.o
